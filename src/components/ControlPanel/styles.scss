@@ -1,0 +1,20 @@
+.control__panel {
+  display: flex;
+  justify-content: space-between;
+  width: 300px;
+
+  &__mode {
+    width: 190px;
+  }
+
+  &__btn {
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    background-color: #3087c9;
+    border-radius: 5px;
+    width: 100px;
+    padding: 0 30px;
+    text-align: center;
+  }
+}

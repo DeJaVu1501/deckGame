@@ -1,0 +1,1 @@
+export const BASE_API_URL = 'http://demo7919674.mockable.io';
